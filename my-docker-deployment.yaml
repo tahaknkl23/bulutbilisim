@@ -16,4 +16,4 @@ spec:
       - name: my-docker-container
         image: your-docker-image:tag
         ports:
-        - containerPort: 80
+        - containerPort: 3000
